@@ -1,0 +1,25 @@
+body{
+    background-color: red;
+}
+h1{
+    text-align: center;
+}
+img{
+    margin-top: 20%;
+}
+.player{
+    position: relative;
+    bottom: 35%;
+    left: 45%;
+}
+.def{
+position: relative;
+top: 20%;
+left: 45%;
+}
+body:hover{
+    background-color: white;
+}
+h2{
+    text-align: center;
+}
